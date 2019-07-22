@@ -8,6 +8,7 @@ Our project aims at helping prevent motor vehicle collisions through the continu
 
 ## Business and Technical Presentations
 - Quarterfinals Technical Proposal - https://www.youtube.com/watch?v=he6h7rP13t0
+http://img.youtube.com/vi/he6h7rP13t0/0.jpg
 - Quarterfinals Business Proposal - https://www.youtube.com/watch?v=psr-zqDIYrg
 - Quarterfinals Interim Technical Proposal - https://www.youtube.com/watch?v=VEirNduuXsg
 - Quarterfinals Interim Business Proposal - https://www.youtube.com/watch?v=q89oGk5nQeQ
