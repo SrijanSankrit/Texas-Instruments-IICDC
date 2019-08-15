@@ -17,5 +17,5 @@ This program was developed by the following students at IIT Guwahati:
 - Mayank Baranwal (https://github.com/Mayank-Baranwal) - Team Leader
 - Utkarsh Jain (https://github.com/utkarshjain1508)
 - Nitin Chauhan (https://github.com/Netrux)
-- Srijan Sankrit
+- Srijan Sankrit (https://github.com/sankr170104072)
 - Prateek Manocha
